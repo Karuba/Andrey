@@ -1,3 +1,11 @@
+.firstBlock {
+  position: absolute;
+  width: 1920px;
+  height: 650px;
+  left: 0px;
+  top: 0px;
+}
+
 .firstBlock__money {
   position: absolute;
   width: 41px;
@@ -28,7 +36,6 @@
   right: 64.06%;
   top: 9.83%;
   bottom: 89.91%;
-  background-color: #0d0d0f;
 }
 
 .firstBlock__Group4 {
@@ -37,7 +44,6 @@
   right: 63.78%;
   top: 9.73%;
   bottom: 90.24%;
-  background-color: #0d0d0f;
 }
 
 .firstBlock__Group5 {

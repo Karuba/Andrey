@@ -6,7 +6,6 @@
       left: 666px;
       top: 524.24px;
    }
-
    &__Group1 {
       position: absolute;
       left: 34.69%;
@@ -14,7 +13,6 @@
       top: 9.44%;
       bottom: 89.83%;
    }
-
    &__Group2 {
       position: absolute;
       left: 36.01%;
@@ -22,25 +20,20 @@
       top: 10.08%;
       bottom: 89.89%;
    }
-
    &__Group3 {
       position: absolute;
       left: 35.57%;
       right: 64.06%;
       top: 9.83%;
       bottom: 89.91%;
-      background-color: rgb(13, 13, 15);
    }
-
    &__Group4 {
       position: absolute;
       left: 36.13%;
       right: 63.78%;
       top: 9.73%;
       bottom: 90.24%;
-      background-color: rgb(13, 13, 15);
    }
-
    &__Group5 {
       position: absolute;
       left: 36.29%;
@@ -55,6 +48,12 @@
       top: 9.8%;
       bottom: 89.96%;
    }
+
+   position: absolute;
+   width: 1920px;
+   height: 650px;
+   left: 0px;
+   top: 0px;
 }
 .secondBlock {
 }
