@@ -1,0 +1,57 @@
+.firstBlock__money {
+  position: absolute;
+  width: 41px;
+  height: 40.52px;
+  left: 666px;
+  top: 524.24px;
+}
+
+.firstBlock__Group1 {
+  position: absolute;
+  left: 34.69%;
+  right: 63.18%;
+  top: 9.44%;
+  bottom: 89.83%;
+}
+
+.firstBlock__Group2 {
+  position: absolute;
+  left: 36.01%;
+  right: 63.91%;
+  top: 10.08%;
+  bottom: 89.89%;
+}
+
+.firstBlock__Group3 {
+  position: absolute;
+  left: 35.57%;
+  right: 64.06%;
+  top: 9.83%;
+  bottom: 89.91%;
+  background-color: #0d0d0f;
+}
+
+.firstBlock__Group4 {
+  position: absolute;
+  left: 36.13%;
+  right: 63.78%;
+  top: 9.73%;
+  bottom: 90.24%;
+  background-color: #0d0d0f;
+}
+
+.firstBlock__Group5 {
+  position: absolute;
+  left: 36.29%;
+  right: 63.34%;
+  top: 9.75%;
+  bottom: 89.98%;
+}
+
+.firstBlock__Group6 {
+  position: absolute;
+  left: 35.94%;
+  right: 63.71%;
+  top: 9.8%;
+  bottom: 89.96%;
+}
